@@ -1,0 +1,5 @@
+CREATE TABLE torneio_tipos(
+	id INT NOT NULL AUTO_INCREMENT,
+	tipo_nome VARCHAR(50),
+	PRIMARY KEY(id)
+);
